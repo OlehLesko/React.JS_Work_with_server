@@ -1,0 +1,8 @@
+.rmPost {
+    padding: 5px 15px;
+    color: white;
+    font-size: 14px;
+    background: black;
+    border: 1px solid red;
+    cursor: pointer;
+}
